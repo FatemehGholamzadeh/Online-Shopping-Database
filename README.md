@@ -8,3 +8,4 @@ the project includes triggers and tables used in the database of an online shopp
 * change in orderstatus (registered, delivering, done, finished)
 
 tables such as  shops, couriers, customer, ... are implemented.
+logs such as fail_log, delivery_log, customer_log, order_log, store_product_log, ... are recorded.
