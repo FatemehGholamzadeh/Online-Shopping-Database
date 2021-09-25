@@ -1,6 +1,6 @@
 # Online-Shopping-Database
 
-the project includes triggers and tables used in the database of an online shopping website. some of the conditions cheched ny triggers are written in bellow:
+the project includes triggers and tables used in the database of an online shopping website. some of the conditions cheched by triggers are written in bellow:
 
 * reduction of customer accountBalance
 * existance of a product in the store
