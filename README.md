@@ -1,9 +1,11 @@
 # Online-Shopping-Database
 
-the project includes triggers and tables used in the database of an online shopping website. triggers are written to control these things bellow:
+the project includes triggers and tables used in the database of an online shopping website. some of the conditions cheched ny triggers are written in bellow:
 
 * reduction of customer accountBalance
+* existance of a product in the store
 * change in the status of couriers(busy or free)
+* checking if account has enough money
 * reduction of products count
 * change in orderstatus (registered, delivering, done, finished)
 
